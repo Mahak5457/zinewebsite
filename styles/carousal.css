@@ -1,0 +1,101 @@
+[class^="number-slide"],
+[class*=" number-slide"] {
+  background: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  color: #fff;
+  font-weight: 500;
+  max-height: 75vh;
+}
+
+.number-slide1 {
+  background: url("../images/carousal/1.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide2 {
+  background: url("../images/carousal/2.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide3 {
+  background: url("../images/carousal/3.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide4 {
+  background: url("../images/carousal/4.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide5 {
+  background: url("../images/gallery/carousel/projects.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide6 {
+  background: url("../images/gallery/carousel/workshop.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide7 {
+  background: url("../images/gallery/carousel/competition.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide8 {
+  background: url("../images/gallery/carousel/drone.jpeg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide9 {
+  background: url("../images/project/project.jpeg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide10 {
+  background: url("../images/achievements/1.png") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide11 {
+  background: url("../images/alumni.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.number-slide12 {
+  background: url("../images/team.jpg") rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.i1 {
+  background-image: url('../images/achievements/1.webp');
+  background-size: cover;
+}
+
+.i2 {
+  background-image: url('../images/achievements/2.webp');
+  background-size: cover;
+}
+.i3 {
+  background-image: url('../images/achievements/3.webp');
+  background-size: cover;
+}
+.i4 {
+  background-image: url('../images/achievements/4.webp');
+  background-size: cover;
+}

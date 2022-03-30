@@ -1,0 +1,42 @@
+{
+  "homepage": "https://Mahak5457.github.io/zinewebsite",
+  "name": "zine-robotics-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "deploy": "gh-pages -d pages"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "gh-pages": "^3.2.3",
+    "keen-slider": "^6.6.3",
+    "next": "^12.0.7",
+    "next-images": "^1.8.4",
+    "react": "^17.0.2",
+    "react-chrono": "^1.14.0",
+    "react-countup": "^6.1.1",
+    "react-dom": "^17.0.2",
+    "react-fast-marquee": "^1.2.1",
+    "react-hover-video-player": "^9.4.0",
+    "react-typical": "^0.1.3",
+    "react-visibility-sensor": "^5.1.1",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "@types/react": "17.0.19",
+    "autoprefixer": "^10.3.1",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "typescript": "4.3.5"
+  }
+}
